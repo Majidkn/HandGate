@@ -1,0 +1,86 @@
+.signup .vertical-null{
+
+}
+.signup img, .signup div{
+    display: inline-block;
+}
+.signup-mobile{
+    background: url('../../assets/images/mobile-pic.png') no-repeat;
+    background-size: 70%;
+    height: 100%;
+    position: relative;
+    left: 85px;
+}
+.signup-mobile .step1{
+    background: url('../../assets/images/mobile-phone-bg.png') no-repeat;
+    height: 100%;
+    width: 59%;
+    position: relative;
+    top: 92px;
+    left: -79px;
+    background-size: 100%;
+    padding: 10px;
+}
+.signup-mobile .step1 input{
+    width: 80%;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 50px
+}
+.signup-mobile .step1 section span.country-code{
+    position: relative;
+    top: 2px;
+    display: contents;
+    color: #9f9e9e;
+}
+.signup-mobile .step1 section span.country-name{
+    position: relative;
+    width: auto;
+    float: right;
+    bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 135px;
+}
+.signup-mobile .step1 section input{
+    width: 250px;
+}
+.signup-mobile .step1 .btn-join-us{
+    position: relative;
+    font-weight: 500;
+    height: 40px;
+    color: #000;
+    top: 58px;
+}
+.signup-mobile .step1 input.phone-number{
+    background: url('../../assets/images/register-phone.png') #FFF no-repeat;
+    background-size: 20px;
+    background-position: 10px;
+}
+.ui-select-toggle{
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+.ui-select-choices-group div{
+    display: block;
+}
+.step1 p{
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 30px;
+}
+.xs-signup .step1{
+    background: url('../../assets/images/mobile-phone-bg.png') no-repeat;
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    padding: 50px;
+    margin: 40px 0;
+}
+.xs-signup .step1 input{
+    border-radius: 50px;
+    margin: 20px 0
+}
