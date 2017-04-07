@@ -1,4 +1,4 @@
-angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar','restangular','ui.select', 'ngSanitize']).config(['$stateProvider',
+angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar','restangular','ui.select', 'ngSanitize','toaster', 'ngAnimate']).config(['$stateProvider',
     function ($stateProvider) {
         var mainStates = [
             {

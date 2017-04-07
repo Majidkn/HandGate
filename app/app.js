@@ -1,4 +1,4 @@
-angular.module('handGateModule').controller('handGateCtrl',['$scope','$state','$http', function ($scope,$state,$http) {
+angular.module('handGateModule').controller('handGateCtrl',['$scope','$state','$http','toaster', function ($scope,$state,$http,toaster) {
     $scope.sendComment = function(comment) {
         return $http({
             method: 'POST',
@@ -6,6 +6,7 @@ angular.module('handGateModule').controller('handGateCtrl',['$scope','$state','$
             data: comment
         }).then(function () {
             $scope.cm = {};
+            toaster.pop('success', "Your message has been successfully sent !");
         });
     }
 }]);

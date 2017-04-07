@@ -1,4 +1,4 @@
-angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','signUpSrvc', function ($scope,$state,signUpSrvc) {
+angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','signUpSrvc', function ($scope,$state,signUpSrvc,toaster) {
 
     $scope.Data = {
         countryList: []
@@ -15,7 +15,6 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
     var Run = function () {
         signUpSrvc.getCountryList().then(function (response) {
             $scope.Data.countryList = response.data;
-            console.log($scope.Data.countryList);
         });
 
     };
