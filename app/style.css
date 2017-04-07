@@ -91,3 +91,11 @@ footer input[type="text"], footer input[type="email"]{
     width: auto;
     font-weight: normal;
 }
+@media (max-width: 767px) {
+    footer ul{
+        float: left;
+        right: 0;
+        border: none;
+        margin-top: 20px;
+    }
+}

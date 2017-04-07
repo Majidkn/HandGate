@@ -46,7 +46,7 @@
 </ui-view>
 <footer class="col-sm-12 container">
     <div>
-        <form ng-submit="sendComment(cm)">
+        <form class="hidden-xs" ng-submit="sendComment(cm)">
             <input ng-model="cm.full_name" placeholder="Full Name" type="text" name="name" class="form-control" required>
             <input ng-model="cm.email" placeholder="Email" style="margin-left: 13px;" type="email" name="email" class="form-control" required>
             <textarea ng-model="cm.message" placeholder="Your Message goes here" class="form-control" required></textarea>
