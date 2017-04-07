@@ -44,13 +44,19 @@
         </section>
     </div>
 </ui-view>
-<footer class="col-sm-12">
-    <div class="container">
+<footer class="col-sm-12 container">
+    <div>
+        <form ng-submit="sendComment(cm)">
+            <input ng-model="cm.full_name" placeholder="Full Name" type="text" name="name" class="form-control" required>
+            <input ng-model="cm.email" placeholder="Email" style="margin-left: 13px;" type="email" name="email" class="form-control" required>
+            <textarea ng-model="cm.message" placeholder="Your Message goes here" class="form-control" required></textarea>
+            <input class="btn btn-default btn-join-us btn-footer" type="submit" value="SUBMIT">
+        </form>
         <ul>
-            <li>INFO@HANDGATE.COM</li>
-            <li>+86 150 211 34641</li>
-            <li>+98 215 516 8666-8</li>
-            <li>IRAN, TEHRAN</li>
+            <li><i class="fa fa-envelope-o" aria-hidden="true"></i>INFO@HANDGATE.COM</li>
+            <li><i class="fa fa-phone" aria-hidden="true"></i>+86 150 211 34641</li>
+            <li style="padding-left: 22px;">+98 215 516 8666-8</li>
+            <li><i class="fa fa-map-marker" aria-hidden="true"></i>IRAN, TEHRAN</li>
         </ul>
     </div>
 </footer>

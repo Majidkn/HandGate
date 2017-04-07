@@ -52,14 +52,42 @@ header h2{
     margin-right: 30px;
 }
 footer{
-    height: 150px;
-    margin-top: 50px;
+    top: 50px;
     background-color: #0bcde7;
+    font-size: 16px;
 }
 footer ul{
+    position: relative;
+    float: right;
     list-style: none;
     margin-top: 30px;
+    border-left: 2px solid rgba(255,255,255,0.4);
+    padding-left: 30px;
+    right: calc(50vw - 300px);
 }
 footer ul > li{
-    color: #e7e7e7;
+    color: #FFF;
+}
+footer ul > li > i{
+    padding-right: 10px;
+}
+footer form{
+    position: relative;
+    float: left;
+    padding-right: 20px;
+    left: calc(50vw - 350px);
+}
+footer input[type="text"], footer input[type="email"]{
+    float: left;
+    width: 48% !important;
+    margin: 20px 0 10px 0;
+}
+.btn-footer{
+    padding: 6px 50px;
+    float: right;
+    margin: 10px 0;
+    color: #000;
+    font-size: 14px;
+    width: auto;
+    font-weight: normal;
 }
