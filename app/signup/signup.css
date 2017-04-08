@@ -7,20 +7,23 @@
 .signup-mobile{
     background: rgba(0, 0, 0, 0) url('../../assets/images/mobile-pic.png') no-repeat scroll 0 0 / 100% 100%;
     background-size: 70%;
+    width: 550px;
     height: 800px;
     position: relative;
     left: 85px;
+
 }
 .signup-mobile .step1{
     background: rgba(0, 0, 0, 0) url('../../assets/images/mobile-phone-bg.png') no-repeat scroll 0 0 / 100% auto;
     width: 59%;
     position: relative;
     top: 92px;
-    left: -78px;
+    left: -80px;
     background-size: 100%;
     padding: 10px;
     height: 100%;
 }
+
 .signup-mobile .step1 input{
     width: 80%;
     text-align: center;
@@ -53,7 +56,7 @@
     color: #000;
     top: 58px;
 }
-.signup-mobile .step1 input.phone-number{
+.signup-mobile input.phone-number, .signup-mobile input.activation-code{
     background: url('../../assets/images/register-phone.png') #FFF no-repeat;
     background-size: 20px;
     background-position: 10px;
@@ -83,4 +86,14 @@
 .xs-signup .step1 input{
     border-radius: 50px;
     margin: 20px 0
+}
+.signup-mobile .step2 {
+    width: 59%;
+    left: -80px;
+}
+.signup-mobile .step2 .btn-join-us{
+    top: 28px;
+}
+.signup-mobile .step2 section span{
+    color: #FFF;
 }

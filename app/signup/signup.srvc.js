@@ -6,7 +6,8 @@ signUpSrvc.$inject = ['$http'];
 function signUpSrvc($http) {
     var signUpSrvc = {
         getCountryList: getCountryList,
-        requestActivationCode: requestActivationCode
+        requestActivationCode: requestActivationCode,
+        checkActivationCode: checkActivationCode
     };
 
     return signUpSrvc;
@@ -15,6 +16,7 @@ function signUpSrvc($http) {
     function getCountryList() {
         return $http.get('http://api2.handgate.com/v1/Country/');
     }
+
     function requestActivationCode(phoneNumber) {
         return $http({
             method: 'POST',
@@ -22,5 +24,14 @@ function signUpSrvc($http) {
             data: {'phone_number': phoneNumber}
         });
     }
+
+    function checkActivationCode(phone_number, activation_code) {
+        return $http({
+            method: 'POST',
+            url: 'http://api2.handgate.com/v1/CheckActivationCode/',
+            data: {"phone_number":phone_number, "activation_code":activation_code}
+        });
+    }
+
 
 }

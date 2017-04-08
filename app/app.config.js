@@ -11,10 +11,18 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 }
             },
             {
-                state: 'home.signup',
+                state: 'home.step1',
                 config: {
-                    url: '/signUp',
-                    templateUrl: 'app/signup/signup.tpl.html',
+                    url: '/SignUp/Step1',
+                    templateUrl: 'app/signup/step1/step1.tpl.html',
+                    controller: 'signUpCtrl'
+                }
+            },
+            {
+                state: 'home.step2',
+                config: {
+                    url: '/SignUp/Step2',
+                    templateUrl: 'app/signup/step2/step2.tpl.html',
                     controller: 'signUpCtrl'
                 }
             }

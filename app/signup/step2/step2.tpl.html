@@ -1,0 +1,31 @@
+<div class="text-center">
+    <h2>Sign Up</h2>
+    <div class="signup hidden-xs">
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <!--<img style="height: 400px; margin-top: -390px;box-shadow: 0px 3px 4px 1px #e7e7e7;" src="assets/images/signup-pic.png" alt="signup">-->
+        <!--<img style="height: 600px;margin-top: -350px;" src="assets/images/mobile-pic.png" alt="mobile">-->
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <div class="signup-mobile">
+            <div class="step1 step2">
+                <p>Enter 5-Digits Code for Activation</p>
+                <section style="width: 250px; margin: 0 auto;">
+                    <input class="form-control activation-code" placeholder="Enter Code" type="text" name="activationCode" ng-model="Data.activationCode">
+                    <span style="float: left; padding-left: 5px">Call Me</span>
+                    <span ng-click="Func.requestActivationCode()" style="float: right; padding-right: 5px">Resend</span>
+                </section>
+                <div style="color: #FFF;font-size: 20px;width: 100%;margin-top: 30px;">{{ Data.Timer }}</div>
+                <span style="color: #FFF;font-size: 16px;">Remain Time</span>
+                <input type="button" class="btn-join-us" value="Continue" ng-click="Func.checkActivationCode(Data.activationCode)">
+            </div>
+        </div>
+    </div>
+    <div class="visible-xs">
+        <div class="xs-signup">
+            <div class="step1">
+                <p>Enter Country Code and Mobile Number for Sign Up in Handgate</p>
+                <input class="form-control" type="text">
+                <input class="form-control" type="text">
+            </div>
+        </div>
+    </div>
+</div>
