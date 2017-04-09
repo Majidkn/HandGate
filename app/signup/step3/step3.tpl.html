@@ -1,0 +1,45 @@
+<div class="text-center">
+    <h2>Sign Up</h2>
+    <div class="signup hidden-xs">
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <!--<img style="height: 400px; margin-top: -390px;box-shadow: 0px 3px 4px 1px #e7e7e7;" src="assets/images/signup-pic.png" alt="signup">-->
+        <!--<img style="height: 600px;margin-top: -350px;" src="assets/images/mobile-pic.png" alt="mobile">-->
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <div class="signup-mobile">
+            <div class="step1 step3">
+                <form name="step3">
+                    <section style="width: 250px; margin: 60px auto;margin-bottom: 0;">
+                        <div ng-class="{ 'has-error': step3.uiSelect1.$invalid }">
+                            <ui-select name="uiSelect1" ng-model="Data.user.language" ng-required="true">
+                                <ui-select-match style="border-radius: 50px; width: 250px; margin-bottom: 10px" placeholder="Select Your Language"><img style="height: 20px; margin-right: 10px;" src="{{$select.selected.country_flag}}" alt="{{$select.selected.title}}"><span class="country-code">{{$select.selected.code}}</span><span class="country-name">{{$select.selected.title}}</span></ui-select-match>
+                                <ui-select-choices repeat="language in Data.languageList | filter: $select.search">
+                                    <div ng-bind-html="language.title | highlight: $select.search"></div>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                        <div ng-class="{ 'has-error': step3.uiSelect2.$invalid }">
+                            <ui-select name="uiSelect2" ng-model="Data.user.currency" ng-required="true">
+                                <ui-select-match style="border-radius: 50px; width: 250px;" placeholder="Select Your Currency"><img style="height: 20px; margin-right: 10px;" src="{{$select.selected.country_flag}}" alt="{{$select.selected.title}}"><span class="country-code">{{$select.selected.code}}</span><span class="country-name">{{$select.selected.title}}</span></ui-select-match>
+                                <ui-select-choices repeat="currency in Data.currencyList | filter: $select.search">
+                                    <div ng-bind-html="currency.title | highlight: $select.search"></div>
+                                </ui-select-choices>
+                            </ui-select>
+                        </div>
+                        <input class="form-control password" placeholder="Enter Password" type="password" name="password" ng-model="Data.password">
+                        <input class="form-control password" placeholder="Confirmation" type="password" name="password_repeat" ng-model="Data.password_repeat">
+                    </section>
+                    <input style="position: absolute;top: 278px;left: 38px;" type="button" class="btn-join-us" value="Continue" ng-click="Func.checkPassword(Data.password, Data.password_repeat)">
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="visible-xs">
+        <div class="xs-signup">
+            <div class="step1">
+                <p>Enter Country Code and Mobile Number for Sign Up in Handgate</p>
+                <input class="form-control" type="text">
+                <input class="form-control" type="text">
+            </div>
+        </div>
+    </div>
+</div>

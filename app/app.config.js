@@ -25,6 +25,14 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                     templateUrl: 'app/signup/step2/step2.tpl.html',
                     controller: 'signUpCtrl'
                 }
+            },
+            {
+                state: 'home.step3',
+                config: {
+                    url: '/SignUp/Step3',
+                    templateUrl: 'app/signup/step3/step3.tpl.html',
+                    controller: 'signUpCtrl'
+                }
             }
         ];
         mainStates.forEach(function (state) {

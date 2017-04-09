@@ -7,7 +7,9 @@ function signUpSrvc($http) {
     var signUpSrvc = {
         getCountryList: getCountryList,
         requestActivationCode: requestActivationCode,
-        checkActivationCode: checkActivationCode
+        checkActivationCode: checkActivationCode,
+        getLanguageList: getLanguageList,
+        getCurrencyList: getCurrencyList,
     };
 
     return signUpSrvc;
@@ -33,5 +35,12 @@ function signUpSrvc($http) {
         });
     }
 
+    function getLanguageList() {
+        return $http.get('http://api2.handgate.com/v1/Language/');
+    }
+
+    function getCurrencyList() {
+        return $http.get('http://api2.handgate.com/v1/Currency/');
+    }
 
 }

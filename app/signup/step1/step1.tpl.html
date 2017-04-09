@@ -9,16 +9,16 @@
             <div class="step1">
                 <p>Enter Country Code and Mobile Number for Sign Up in Handgate</p>
                 <section>
-                    <ui-select ng-model="Data.selectedCountry">
-                        <ui-select-match style="border-radius: 50px; width: 250px;" placeholder="Select A Country"><img style="height: 20px; margin-right: 10px;" src="{{$select.selected.flag}}" alt="{{$select.selected.title}}"><span class="country-code">{{$select.selected.code}}</span><span class="country-name">{{$select.selected.title}}</span></ui-select-match>
+                    <ui-select ng-model="Data.user.selectedCountry">
+                        <ui-select-match style="border-radius: 50px; width: 250px;" placeholder="Select Your Country"><img style="height: 20px; margin-right: 10px;" src="{{$select.selected.flag}}" alt="{{$select.selected.title}}"><span class="country-code">{{$select.selected.code}}</span><span class="country-name">{{$select.selected.title}}</span></ui-select-match>
                         <ui-select-choices repeat="country in Data.countryList | filter: $select.search">
                             <div ng-bind-html="country.code | highlight: $select.search"></div>
                             <small ng-bind-html="country.title | highlight: $select.search"></small>
                         </ui-select-choices>
                     </ui-select>
-                    <input class="form-control phone-number" type="text" name="mobilePhone" ng-model="Data.registerPhoneNumber">
+                    <input class="form-control phone-number" type="text" name="mobilePhone" ng-model="Data.user.registerPhoneNumber">
                 </section>
-                <input type="button" class="btn-join-us" value="Continue" ng-click="Func.requestActivationCode(Data.selectedCountry.code)">
+                <input type="button" class="btn-join-us" value="Continue" ng-click="Func.requestActivationCode(Data.user.selectedCountry.code)">
             </div>
         </div>
     </div>
