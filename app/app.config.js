@@ -33,6 +33,14 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                     templateUrl: 'app/signup/step3/step3.tpl.html',
                     controller: 'signUpCtrl'
                 }
+            },
+            {
+                state: 'home.step4',
+                config: {
+                    url: '/SignUp/Step4',
+                    templateUrl: 'app/signup/step4/step4.tpl.html',
+                    controller: 'signUpCtrl'
+                }
             }
         ];
         mainStates.forEach(function (state) {

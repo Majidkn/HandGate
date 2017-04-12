@@ -1,0 +1,27 @@
+<div class="text-center">
+    <h2>Sign Up</h2>
+    <div class="signup hidden-xs">
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <!--<img style="height: 400px; margin-top: -390px;box-shadow: 0px 3px 4px 1px #e7e7e7;" src="assets/images/signup-pic.png" alt="signup">-->
+        <!--<img style="height: 600px;margin-top: -350px;" src="assets/images/mobile-pic.png" alt="mobile">-->
+        <!--<div style="height: 400px;margin-top: 100px;" class="vertical-null"></div>-->
+        <div class="signup-mobile">
+            <div class="step1 step4">
+                <form name="step4">
+                    <section style="width: 250px; margin: 10px auto;margin-bottom: 0;">
+                        <div class="account"><i class="fa fa-user" aria-hidden="true"></i></div>
+                        <input class="form-control" placeholder="First Name" type="text" name="first_name" ng-model="Data.first_name">
+                        <input class="form-control" placeholder="Last Name" type="text" name="last_name" ng-model="Data.last_name">
+                        <div style="position:relative; display: block;">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <input class="form-control" placeholder="Email" type="email" name="email" ng-model="Data.email">
+                        </div>
+                    </section>
+                    <input style="position: absolute;top: 278px;left: 38px;" type="button" class="btn-join-us" value="Continue" ng-click="Func.checkPassword(Data.password, Data.password_repeat)">
+                </form>
+                <span style="position: relative;float: left;top: 50px;left: 30px;color: #0bcde7;">Invite Code?</span>
+
+            </div>
+        </div>
+    </div>
+</div>

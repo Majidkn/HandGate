@@ -1,9 +1,8 @@
-angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','signUpSrvc','toaster','$interval' , function ($scope,$state,signUpSrvc,toaster,$interval) {
+angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','signUpSrvc','toaster','$interval', '$rootScope' , function ($scope,$state,signUpSrvc,toaster,$interval, $rootScope) {
 
     $scope.Data = {
         user: {},
-        countryList: [],
-        Timer: '10:00'
+        countryList: []
     };
 
     $scope.Func = {
@@ -16,28 +15,43 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
                 if(response.data.status_code == 1){
                     toaster.pop("success","Your phone number has been accepted. Wait for activation code !");
                     $state.go('home.step2');
+                    $scope.Func.setAlarm();
                 }
-                else
-                    toaster.pop("error",response.data.status_message);
+                else {
+                    toaster.pop("error", response.data.status_message);
+                    $scope.Func.setAlarm();
+                }
             });
         },
         checkActivationCode: function (activation_code) {
             signUpSrvc.checkActivationCode($scope.Data.user.phoneNumber, activation_code).then(function (response) {
                 toaster.pop("success","Your activation code has been accepted");
+                $scope.Data.user.activation_code = activation_code;
             }, function (response) {
                 toaster.pop("error",response.data.activation_code);
             })
         },
         checkPassword: function (password, password_repeat) {
-            var d = false;
-            password == password_repeat ? d = true : '';
+            password == password_repeat ? d = true : d = false;
             d ? $scope.Data.user.password = password : toaster.pop("error","Password Confirmation");
             d && $scope.Data.user.currency && $scope.Data.user.language ? $state.go('home.step4') : '';
+        },
+        setAlarm: function () {
+            $scope.promise = $interval(function (x) {
+                var minute = Math.floor((600 - x) / 60),
+                    second = Math.floor((600 - x) % 60);
+                console.log(minute, second);
+                if(minute > 0 && second > 0) {
+                    minute / 10 < 1 ? minute = '0' + minute : minute;
+                    second / 10 < 1 ? second = '0' + second : second;
+                    $scope.Data.Timer = minute + ':' + second;
+                } else $interval.cancel($scope.promise)
+            }, 1000);
         },
         remakeUser: function () {
             $scope.Data.user = {
                 phone_number: $scope.Data.user.phoneNumber,
-                activation_code: null,
+                activation_code: $scope.Data.user.activation_code,
                 password: $scope.Data.user.password,
                 first_name: null,
                 last_name: null,
@@ -59,15 +73,8 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
         signUpSrvc.getCurrencyList().then(function (response) {
             $scope.Data.currencyList = response.data;
         });
-        $interval(function (x) {
-            var minute = Math.floor((600 - x) / 60),
-                second = Math.floor((600 - x) % 60);
-            if(minute >= 0 && second >= 0) {
-                minute / 10 < 1 ? minute = '0' + minute : minute;
-                second / 10 < 1 ? second = '0' + second : second;
-                $scope.Data.Timer = minute + ':' + second;
-            }
-        }, 1000);
+        $scope.Func.setAlarm();
+
     };
     Run();
 }]);

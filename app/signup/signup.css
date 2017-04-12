@@ -97,3 +97,24 @@
 .signup-mobile .step2 section span{
     color: #FFF;
 }
+.step4 .account{
+    width: 120px;
+    height: 120px;
+    background: #d7d7d7;
+    border-radius: 50%;
+    display: table;
+    margin: 0 auto;
+    border: 5px solid #FFF;
+}
+.step4 i.fa-user{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 50px;
+    color: #F2EDED;
+}
+.step4 i.fa-envelope{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    color: #cecece;
+}
