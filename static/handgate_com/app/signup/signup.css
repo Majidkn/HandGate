@@ -118,3 +118,19 @@
     top: 10px;
     color: #cecece;
 }
+.step4 .invite-code{
+    position: relative;
+    float: left;
+    top: 50px;
+    left: 30px;
+    color: #0bcde7;
+}
+.step4 .invite-code:hover{
+    cursor: pointer;
+}
+.step1.invitation-form{
+
+}
+.lowopacity{
+    display: none;
+}

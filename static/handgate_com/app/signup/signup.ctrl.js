@@ -40,13 +40,15 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
             $scope.promise = $interval(function (x) {
                 var minute = Math.floor((600 - x) / 60),
                     second = Math.floor((600 - x) % 60);
-                console.log(minute, second);
                 if(minute > 0 && second > 0) {
                     minute / 10 < 1 ? minute = '0' + minute : minute;
                     second / 10 < 1 ? second = '0' + second : second;
                     $scope.Data.Timer = minute + ':' + second;
                 } else $interval.cancel($scope.promise)
             }, 1000);
+        },
+        showInvitaion: function () {
+
         },
         remakeUser: function () {
             $scope.Data.user = {
