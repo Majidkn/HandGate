@@ -2,720 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d622b17-0f27-441f-85b1-9b9d40f5ed43" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.config.js" afterPath="$PROJECT_DIR$/static/handgate_com/app/app.config.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/static/handgate_com/app/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/static/handgate_com/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/signup.css" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/signup.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/signup.ctrl.js" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/signup.ctrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/signup.srvc.js" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/signup.srvc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/step1/step1.tpl.html" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/step1/step1.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/step2/step2.tpl.html" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/step2/step2.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/step3/step3.tpl.html" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/step3/step3.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup/step4/step4.tpl.html" afterPath="$PROJECT_DIR$/static/handgate_com/app/signup/step4/step4.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/style.css" afterPath="$PROJECT_DIR$/static/handgate_com/app/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/karma.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/karma.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/karma.coverage.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/karma.coverage.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/test/directiveTemplateSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/test/directiveTemplateSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/test/toasterContainerControllerSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/test/toasterContainerControllerSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/test/toasterContainerSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/test/toasterContainerSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/test/toasterEventRegistrySpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/test/toasterEventRegistrySpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/test/toasterServiceSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/test/toasterServiceSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/toaster.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/toaster.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/toaster.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/toaster.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/toaster.min.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/toaster.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/toaster.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/toaster.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/AngularJS-Toaster/toaster.scss" afterPath="$PROJECT_DIR$/static/handgate_com/lib/AngularJS-Toaster/toaster.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/LICENSE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/angular-animate.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/angular-animate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/angular-animate.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/angular-animate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/angular-animate.min.js.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/angular-animate.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-animate/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-animate/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/.gitignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/.npmignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/.npmignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-csp.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/ui-bootstrap-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-tpls.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/ui-bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-bootstrap/ui-bootstrap.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/Gruntfile.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/ISSUE_TEMPLATE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/PULL_REQUEST_TEMPLATE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/PULL_REQUEST_TEMPLATE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/build/loading-bar.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/build/loading-bar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/build/loading-bar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/build/loading-bar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/build/loading-bar.min.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/build/loading-bar.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/build/loading-bar.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/build/loading-bar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/src/loading-bar.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/src/loading-bar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-loading-bar/src/loading-bar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-loading-bar/src/loading-bar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/LICENSE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/angular-sanitize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/angular-sanitize.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/angular-sanitize.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-sanitize/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/.gitignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/.jshintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/.travis.yml" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/demo/index.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/demo/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/dist/event.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/dist/event.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/dist/event.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/dist/event.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/gulpfile.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/gulpfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/karma.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/karma.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/src/event.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/src/event.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-event/test/eventSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-event/test/eventSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/release/angular-ui-router.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/release/angular-ui-router.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/release/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/release/angular-ui-router.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/common.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/common.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/resolve.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/resolve.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/state.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/state.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/stateDirectives.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/stateDirectives.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/stateFilters.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/stateFilters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/templateFactory.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/templateFactory.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/urlMatcherFactory.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/urlMatcherFactory.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/urlRouter.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/urlRouter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/view.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/view.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/viewDirective.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/viewDirective.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-router/src/viewScroll.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-router/src/viewScroll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/composer.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/composer.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/deploy-docs.sh" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/deploy-docs.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.min.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.min.css.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/dist/select.min.js.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/dist/select.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/assets/app.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/assets/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/assets/demo.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/assets/demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/assets/docs.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/assets/docs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/assets/plunkr.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/assets/plunkr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/index.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/partials/_footer.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/partials/_footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/docs/partials/_header.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/docs/partials/_header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/npm-debug.log" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/npm-debug.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular-ui-select/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular-ui-select/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/LICENSE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/angular-csp.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/angular-csp.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/angular.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/angular.min.js.gzip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/angular.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/index.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/angular/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/angular/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/Gemfile" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/Gemfile.lock" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/Gemfile.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/ISSUE_TEMPLATE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/dist/js/npm.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/dist/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/.jshintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/change-version.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/change-version.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/configBridge.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/configBridge.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/npm-shrinkwrap.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/.jscsrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/.jscsrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/.jshintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/.csscomb.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/.csscomb.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/.csslintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/.csslintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/alerts.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/badges.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/badges.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/bootstrap.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/button-groups.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/button-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/buttons.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/carousel.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/carousel.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/close.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/close.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/code.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/code.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/component-animations.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/component-animations.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/dropdowns.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/dropdowns.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/forms.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/glyphicons.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/glyphicons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/input-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/jumbotron.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/jumbotron.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/labels.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/list-group.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/media.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/media.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/background-variant.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/border-radius.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/center-block.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/clearfix.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/forms.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/gradients.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/grid-framework.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/grid.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/hide-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/image.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/image.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/labels.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/labels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/list-group.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/nav-divider.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/opacity.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/panels.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/progress-bar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/reset-filter.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/reset-text.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/resize.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/resize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/size.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/size.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/tab-focus.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/table-row.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/text-overflow.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/modals.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/modals.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/navbar.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/navbar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/navs.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/navs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/normalize.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/normalize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/pager.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/pager.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/pagination.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/panels.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/popovers.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/popovers.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/print.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/print.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/progress-bars.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/progress-bars.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/responsive-embed.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/responsive-embed.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/scaffolding.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/scaffolding.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/tables.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/tables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/theme.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/theme.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/thumbnails.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/thumbnails.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/tooltip.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/tooltip.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/type.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/type.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/utilities.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/less/wells.less" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/less/wells.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/nuget/MyGet.ps1" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/nuget/bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/nuget/bootstrap.nuspec" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/package.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/package.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/bootstrap/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/bootstrap/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/.editorconfig" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/.eslintignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/.eslintignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/.eslintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/.eslintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/LICENSE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/LICENSE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/MAINTAINING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/MAINTAINING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/composer.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/composer.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/config.jshintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/config.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/dist/Chart.bundle.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/dist/Chart.bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/dist/Chart.bundle.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/dist/Chart.bundle.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/dist/Chart.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/dist/Chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/dist/Chart.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/dist/Chart.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/00-Getting-Started.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/00-Getting-Started.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/01-Chart-Configuration.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/01-Chart-Configuration.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/02-Scales.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/02-Scales.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/03-Line-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/03-Line-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/04-Bar-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/04-Bar-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/05-Radar-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/05-Radar-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/06-Polar-Area-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/06-Polar-Area-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/07-Pie-Doughnut-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/07-Pie-Doughnut-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/08-Bubble-Chart.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/08-Bubble-Chart.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/09-Advanced.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/09-Advanced.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/docs/10-Notes.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/docs/10-Notes.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/gulpfile.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/gulpfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/karma.conf.ci.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/karma.conf.ci.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/karma.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/karma.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/karma.coverage.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/karma.coverage.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/animation/progress-bar.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/animation/progress-bar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bar/bar-horizontal.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bar/bar-horizontal.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bar/bar-multi-axis.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bar/bar-multi-axis.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bar/bar-stacked-group.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bar/bar-stacked-group.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bar/bar-stacked.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bar/bar-stacked.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bar/bar.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bar/bar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/bubble.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/bubble.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/combo-bar-line.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/combo-bar-line.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/data_labelling.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/data_labelling.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/doughnut.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/doughnut.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/legend/pointstyle.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/legend/pointstyle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/legend/positions.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/legend/positions.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/different-point-sizes.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/different-point-sizes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/interpolation-modes.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/interpolation-modes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line-multi-axis.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line-multi-axis.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line-skip-points.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line-skip-points.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line-stacked-area.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line-stacked-area.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line-stepped.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line-stepped.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line-styles.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line-styles.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/line.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/line.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/line/point-styles.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/line/point-styles.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/pie.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/pie.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/polar-area.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/polar-area.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/radar/radar-skip-points.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/radar/radar-skip-points.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/radar/radar.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/radar/radar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/display-settings.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/display-settings.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/filtering-labels.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/filtering-labels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/gridlines.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/gridlines.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/line-non-numeric-y.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/line-non-numeric-y.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/linear/min-max-settings.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/linear/min-max-settings.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/linear/step-size.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/linear/step-size.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/linear/suggested-min-max-settings.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/linear/suggested-min-max-settings.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/logarithmic/line-logarithmic.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/logarithmic/line-logarithmic.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/logarithmic/scatter-logX.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/logarithmic/scatter-logX.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/multiline-labels.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/multiline-labels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/time/combo-time-scale.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/time/combo-time-scale.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/time/line-time-point-data.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/time/line-time-point-data.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scales/time/line-time-scale.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scales/time/line-time-scale.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scatter/scatter-multi-axis.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scatter/scatter-multi-axis.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/scatter/scatter.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/scatter/scatter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/dataPoints-customTooltips.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/dataPoints-customTooltips.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/interaction-modes.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/interaction-modes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/line-customTooltips.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/line-customTooltips.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/pie-customTooltips.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/pie-customTooltips.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/position-modes.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/position-modes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/tooltips/tooltip-callbacks.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/tooltips/tooltip-callbacks.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/samples/utils.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/samples/utils.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/chart.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Bar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Bar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Bubble.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Bubble.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Doughnut.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Doughnut.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Line.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.PolarArea.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.PolarArea.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Radar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Radar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/charts/Chart.Scatter.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/charts/Chart.Scatter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.bar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.bar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.bubble.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.bubble.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.doughnut.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.doughnut.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.line.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.polarArea.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.polarArea.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/controllers/controller.radar.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/controllers/controller.radar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.animation.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.animation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.canvasHelpers.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.canvasHelpers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.controller.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.controller.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.datasetController.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.datasetController.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.element.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.element.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.helpers.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.helpers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.interaction.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.interaction.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.layoutService.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.layoutService.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.legend.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.legend.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.plugin.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.plugin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.scale.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.scale.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.scaleService.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.scaleService.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.ticks.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.ticks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.title.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.title.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/core/core.tooltip.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/core/core.tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/elements/element.arc.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/elements/element.arc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/elements/element.line.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/elements/element.line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/elements/element.point.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/elements/element.point.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/elements/element.rectangle.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/elements/element.rectangle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/platforms/platform.dom.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/platforms/platform.dom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/platforms/platform.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/platforms/platform.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.category.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.category.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.linear.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.linear.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.linearbase.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.linearbase.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.logarithmic.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.logarithmic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.radialLinear.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.radialLinear.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/src/scales/scale.time.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/src/scales/scale.time.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.bar.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.bar.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.bubble.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.bubble.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.doughnut.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.doughnut.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.line.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.line.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.polarArea.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.polarArea.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/controller.radar.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/controller.radar.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.controller.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.controller.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.datasetController.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.datasetController.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.element.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.element.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.helpers.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.helpers.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.interaction.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.interaction.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.layoutService.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.layoutService.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.legend.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.legend.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.plugin.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.plugin.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.scaleService.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.scaleService.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.title.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.title.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/core.tooltip.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/core.tooltip.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/defaultConfig.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/defaultConfig.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/element.arc.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/element.arc.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/element.line.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/element.line.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/element.point.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/element.point.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/element.rectangle.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/element.rectangle.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/mockContext.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/mockContext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/platform.dom.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/platform.dom.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/scale.category.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/scale.category.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/scale.linear.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/scale.linear.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/scale.logarithmic.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/scale.logarithmic.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/scale.radialLinear.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/scale.radialLinear.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/test/scale.time.tests.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/test/scale.time.tests.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/chart.js/thankyou.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/chart.js/thankyou.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/AUTHORS.txt" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/AUTHORS.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/LICENSE.txt" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/core.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.slim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.slim.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/dist/jquery.slim.min.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/dist/jquery.slim.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/external/sizzle/LICENSE.txt" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/external/sizzle/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/external/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/.eslintrc.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/.eslintrc.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/jsonp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/load.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/parseXML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/var/location.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/var/location.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/var/nonce.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/var/rquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/ajax/xhr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes/attr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes/classes.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes/prop.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/attributes/val.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/callbacks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/DOMEval.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/DOMEval.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/access.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/init.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/parseHTML.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/ready-no-deferred.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/ready-no-deferred.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/ready.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/readyException.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/readyException.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/stripAndCollapse.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/stripAndCollapse.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/core/var/rsingleTag.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/addGetHookIf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/adjustCSS.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/adjustCSS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/curCSS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/showHide.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/showHide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/cssExpand.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/getStyles.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/isHiddenWithinTree.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/rmargin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/rnumnonpx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/css/var/swap.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/css/var/swap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/data.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/data/Data.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/data/var/acceptData.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/data/var/acceptData.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/data/var/dataPriv.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/data/var/dataPriv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/data/var/dataUser.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/data/var/dataUser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/deferred.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/deferred/exceptionHook.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/deferred/exceptionHook.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/deprecated.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/dimensions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/effects.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/effects.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/effects/Tween.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/effects/animatedSelector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event/ajax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event/alias.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event/focusin.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event/focusin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/event/trigger.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/event/trigger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/exports/amd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/exports/global.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/_evalUrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/buildFragment.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/buildFragment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/getAll.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/getAll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/setGlobalEval.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rscriptType.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/var/rtagName.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/var/rtagName.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/manipulation/wrapMap.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/manipulation/wrapMap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/offset.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/offset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/queue.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/queue/delay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/selector-native.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/selector-sizzle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/selector.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/selector.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/serialize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/traversing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/traversing/findFilter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/traversing/var/dir.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/traversing/var/dir.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/traversing/var/siblings.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/traversing/var/siblings.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/ObjectFunctionString.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/ObjectFunctionString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/arr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/class2type.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/concat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/document.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/document.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/documentElement.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/documentElement.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/fnToString.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/fnToString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/getProto.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/getProto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/hasOwn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/indexOf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/pnum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/push.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/rcssNum.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/rcssNum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/rnothtmlwhite.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/rnothtmlwhite.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/slice.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/support.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/var/toString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/jquery/src/wrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.editorconfig" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.gitattributes" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.github/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.github/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.gitignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.jscsrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.jscsrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.markdown-doctest-setup.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.markdown-doctest-setup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/.travis.yml" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/CHANGELOG" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/CHANGELOG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.core.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.core.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.core.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.core.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.fp.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.fp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.fp.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.fp.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/lodash.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/lodash.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/dist/mapping.fp.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/dist/mapping.fp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/doc/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/doc/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/fp/_baseConvert.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/fp/_baseConvert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/fp/_convertBrowser.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/fp/_convertBrowser.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/fp/_mapping.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/fp/_mapping.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/fp/placeholder.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/fp/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/common/file.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/common/file.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/common/mapping.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/common/mapping.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/common/minify.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/common/minify.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/common/uglify.options.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/common/uglify.options.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/common/util.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/common/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/build-dist.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/build-dist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/build-doc.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/build-doc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/build-modules.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/build-modules.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/doc/wiki.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/doc/wiki.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/_falseOptions.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/_falseOptions.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/_util.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/_util.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/alias.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/alias.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/category.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/category.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/convert.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/convert.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/fp.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/fp.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/module.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/module.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/fp/template/modules/thru.jst" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/fp/template/modules/thru.jst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/main/build-dist.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/main/build-dist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/main/build-doc.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/main/build-doc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/main/build-modules.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/main/build-modules.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lib/main/build-site.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lib/main/build-site.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/lodash.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/lodash.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/perf/asset/perf-ui.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/perf/asset/perf-ui.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/perf/index.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/perf/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/perf/perf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/perf/perf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/asset/test-ui.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/asset/test-ui.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/asset/worker.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/asset/worker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/backbone.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/backbone.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/fp.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/fp.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/index.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/remove.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/remove.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/saucelabs.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/saucelabs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/test-fp.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/test-fp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/test.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/test/underscore.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/test/underscore.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/backbone.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/backbone.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/collection.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/collection.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/events.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/events.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/model.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/model.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/noconflict.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/noconflict.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/router.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/router.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/setup/dom-setup.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/setup/dom-setup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/setup/environment.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/setup/environment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/sync.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/sync.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/backbone/test/view.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/backbone/test/view.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/license.txt" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/blank.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/buttonBg.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/buttonBg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/buttonBgHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/buttonBgHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/debugger.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/debugger.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/detach.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/detach.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/detachHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/detachHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/disable.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/disable.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/disable.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/disable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/disableHover.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/disableHover.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/disableHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/disableHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/down.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/down.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/downActive.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/downActive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/downHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/downHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon-sm.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon-sm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/errorIcon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/firebug-1.3a2.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/firebug-1.3a2.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/firebug.IE6.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/firebug.IE6.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/firebug.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/firebug.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/firebug.html" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/firebug.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/firebug.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/firebug.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/group.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/group.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/html.css" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/html.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/infoIcon.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/infoIcon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/infoIcon.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/infoIcon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/loading_16.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/loading_16.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/min.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/min.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/minHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/minHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/off.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/off.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/offHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/offHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/pixel_transparent.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/pixel_transparent.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/roundCorner.svg" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/roundCorner.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/search.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/search.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/search.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/search.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/shadow.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/shadow.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/shadow2.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/shadow2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/shadowAlpha.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/shadowAlpha.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/sprite.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverLeft.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverLeft.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverMid.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverMid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverRight.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabHoverRight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabLeft.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabLeft.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuCheckbox.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuCheckbox.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuPin.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuPin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuRadio.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuRadio.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuTarget.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuTarget.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuTargetHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMenuTargetHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabMid.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabMid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tabRight.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tabRight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/textEditorBorders.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/textEditorCorners.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/titlebarMid.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/titlebarMid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/toolbarMid.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/toolbarMid.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tree_close.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tree_close.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/tree_open.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/tree_open.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/twistyClosed.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/twistyClosed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/twistyOpen.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/twistyOpen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/up.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/up.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/upActive.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/upActive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/upHover.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/upHover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/warningIcon.gif" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/warningIcon.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/skin/xp/warningIcon.png" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/skin/xp/warningIcon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/firebug-lite/src/firebug-lite-debug.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/firebug-lite/src/firebug-lite-debug.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/json-js/json2.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/json-js/json2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/LICENSE" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/arrays.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/arrays.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/chaining.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/chaining.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/collections.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/collections.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/cross-document.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/cross-document.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/functions.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/functions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/objects.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/objects.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/test/utility.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/test/utility.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/underscore-min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/underscore-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/vendor/underscore/underscore.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/vendor/underscore/underscore.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/lodash/yarn.lock" afterPath="$PROJECT_DIR$/static/handgate_com/lib/lodash/yarn.lock" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.editorconfig" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.editorconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.github/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.github/ISSUE_TEMPLATE.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.gitignore" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.jshintrc" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.jshintrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/.travis.yml" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/.travis.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/CHANGELOG.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/Gruntfile.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/Gruntfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/README.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/bower.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/bower.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/dist/restangular.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/dist/restangular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/dist/restangular.min.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/dist/restangular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/dist/restangular.zip" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/dist/restangular.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/karma.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/karma.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/karma.underscore.conf.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/karma.underscore.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/license.md" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/license.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/package.json" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/src/restangular.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/src/restangular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/restangular/test/restangularSpec.js" afterPath="$PROJECT_DIR$/static/handgate_com/lib/restangular/test/restangularSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/handgate_com/assets/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/handgate_com/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/handgate_com/assets/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/handgate_com/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/account.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/account.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/app-pic-1.jpg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/app-pic-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/app-pic-2.jpg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/app-pic-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/app-store-btn.jpg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/app-store-btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/google-play-btn.jpg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/google-play-btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/logo.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/mobile-phone-bg.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/mobile-phone-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/mobile-pic.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/mobile-pic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/register-phone.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/register-phone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/signup-pic.png" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/signup-pic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/top-image.jpg" afterPath="$PROJECT_DIR$/static/handgate_com/assets/images/top-image.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="$PROJECT_DIR$/static/handgate_com/assets/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -792,8 +95,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="722">
+              <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -896,6 +199,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="handgate_com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandGate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandGate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handgate_com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandGate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandGate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handgate_com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1067,38 +418,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HandGate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HandGate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HandGate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HandGate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1209,18 +528,18 @@
       <workItem from="1490143102287" duration="5360000" />
       <workItem from="1492033659430" duration="5406000" />
       <workItem from="1492116232078" duration="2258000" />
-      <workItem from="1492326989258" duration="581000" />
+      <workItem from="1492326989258" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33291000" />
+    <option name="totallyTimeSpent" value="33404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1303" y="23" width="1257" height="1336" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1395,47 +714,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/app-pic-1.jpg">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/app-pic-1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/app-pic-2.jpg">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/app-pic-2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/app-store-btn.jpg">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/app-store-btn.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/google-play-btn.jpg">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/google-play-btn.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/logo.png">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/signup-pic.png">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/signup-pic.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/register-phone.png">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/register-phone.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/mobile-pic.png">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/mobile-pic.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/mobile-phone-bg.png">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/mobile-phone-bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1447,7 +766,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1085">
           <caret line="0" column="30786" lean-forward="false" selection-start-line="0" selection-start-column="30786" selection-end-line="0" selection-end-column="30786" />
@@ -1477,7 +796,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/signup/step4/step4/step3.tpl.html" />
-    <entry file="file://$PROJECT_DIR$/assets/images/top-image.jpg">
+    <entry file="file://$PROJECT_DIR$/static/handgate_com/assets/images/top-image.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1558,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="722">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding />
         </state>
       </provider>
