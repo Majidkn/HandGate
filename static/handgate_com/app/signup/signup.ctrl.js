@@ -63,6 +63,7 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
         }
     };
 
+
     var Run = function () {
         signUpSrvc.getCountryList().then(function (response) {
             $scope.Data.countryList = response.data;
@@ -74,7 +75,6 @@ angular.module('handGateModule').controller('signUpCtrl',['$scope','$state','sig
             $scope.Data.currencyList = response.data;
         });
         $scope.Func.setAlarm();
-
     };
     Run();
 }]);
