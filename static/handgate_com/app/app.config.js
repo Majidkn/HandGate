@@ -5,7 +5,7 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 state: 'home',
                 config: {
                     url: '',
-                    templateUrl: 'app/index.html',
+                    templateUrl: 'static/handgate_com/app/index.html',
                     controller: 'handGateCtrl'
 
                 }
@@ -14,7 +14,7 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 state: 'home.step1',
                 config: {
                     url: '/SignUp/Step1',
-                    templateUrl: 'app/signup/step1/step1.tpl.html',
+                    templateUrl: 'static/handgate_com/app/signup/step1/step1.tpl.html',
                     controller: 'signUpCtrl'
                 }
             },
@@ -22,7 +22,7 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 state: 'home.step2',
                 config: {
                     url: '/SignUp/Step2',
-                    templateUrl: 'app/signup/step2/step2.tpl.html',
+                    templateUrl: 'static/handgate_com/app/signup/step2/step2.tpl.html',
                     controller: 'signUpCtrl'
                 }
             },
@@ -30,7 +30,7 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 state: 'home.step3',
                 config: {
                     url: '/SignUp/Step3',
-                    templateUrl: 'app/signup/step3/step3.tpl.html',
+                    templateUrl: 'static/handgate_com/app/signup/step3/step3.tpl.html',
                     controller: 'signUpCtrl'
                 }
             },
@@ -38,7 +38,7 @@ angular.module('handGateModule',['ui.bootstrap','ui.router','angular-loading-bar
                 state: 'home.step4',
                 config: {
                     url: '/SignUp/Step4',
-                    templateUrl: 'app/signup/step4/step4.tpl.html',
+                    templateUrl: 'static/handgate_com/app/signup/step4/step4.tpl.html',
                     controller: 'signUpCtrl'
                 }
             }
